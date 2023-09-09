@@ -19,7 +19,8 @@ dependencies:
     path: ../flutter-icons
   fancy_bottom_navigation: ^0.3.3
   carousel_slider: ^4.2.1
-  division: ^0.9.0
+  division:
+    path: ../division
   page_transition: ^2.0.9
   bottom_navy_bar: ^6.0.0
   sliding_up_panel: ^2.0.0+1
